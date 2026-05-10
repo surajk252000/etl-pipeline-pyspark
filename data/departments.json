@@ -1,0 +1,7 @@
+[
+    {"dept_id": 1, "dept_name": "Engineering", "location": "Bengaluru", "budget": 5000000},
+    {"dept_id": 2, "dept_name": "Marketing", "location": "Mumbai", "budget": 3000000},
+    {"dept_id": 3, "dept_name": "HR", "location": "Delhi", "budget": 1500000},
+    {"dept_id": 4, "dept_name": "Finance", "location": "Pune", "budget": 2000000},
+    {"dept_id": 5, "dept_name": "Operations", "location": "Hyderabad", "budget": 2500000}
+]

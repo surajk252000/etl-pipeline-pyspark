@@ -1,0 +1,11 @@
+emp_id,name,department,salary,joining_date
+1,Amit Sharma,Engineering,75000,2022-01-15
+2,Priya Verma,Marketing,55000,2021-08-20
+3,Rahul Singh,Engineering,80000,2020-03-10
+4,Sneha Patil,HR,45000,2023-06-01
+5,Kiran Rao,Engineering,90000,2019-11-25
+6,Neha Gupta,Marketing,60000,2022-09-14
+7,,Finance,50000,2021-04-30
+8,Rohit Mehta,Engineering,,2020-07-18
+9,Anjali Das,HR,47000,2023-01-05
+10,Vikram Nair,Finance,55000,2021-12-22
